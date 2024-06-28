@@ -1,0 +1,2 @@
+# Trippy
+ Trip planning website

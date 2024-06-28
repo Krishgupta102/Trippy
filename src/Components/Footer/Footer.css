@@ -1,0 +1,27 @@
+.footer{
+    color: white;
+    background-color: black;
+    padding: 3rem;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.upperfoot{
+    display: flex;
+    gap: 45rem;
+}
+
+.upperfoot .icons i{
+    padding-right: 1rem;
+    font-size: 1.3rem;
+}
+
+.elements{
+    padding-top: 3rem;
+    display: flex;
+    gap: 14rem;
+}
+
+.element h4{
+    font-size: 1.5rem;
+    padding-bottom: 1rem;
+}

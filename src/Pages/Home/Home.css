@@ -1,0 +1,102 @@
+.text-img img{
+    height: 35rem;
+    width: 100%;
+    position: relative;
+}
+
+.text{
+    position: absolute;
+    top: 45%;
+    left: 30%;
+    justify-content: center;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.text p{
+    color: whitesmoke;
+}
+
+.text h3{
+    font-size: 3rem;
+}
+
+.text p{
+    font-size: 1.5rem;
+    padding-left: 5rem;
+    
+}
+
+.text .btn{
+    margin-left: 12rem;
+    font-size: 1.2rem;
+}
+
+.destination{
+    padding-top: 3rem;
+}
+
+.heading1 h2{
+    padding-left: 29rem;
+}
+
+.heading1 p{
+    padding-left: 25rem;
+}
+
+.destination1{
+    display: flex;
+    padding: 4rem;
+}
+
+.heading2{
+    padding-right: 5rem;
+    padding-top: 2rem;
+}
+
+.images1{
+    display: flex;
+    gap: 0.5rem;
+}
+
+.images1 img{
+    height: 18rem;
+    width: 15rem;
+    border-radius: 5px;
+}
+
+.images1 .image2 img{
+    padding-bottom: 2rem;
+}
+
+.images1 .image1 img{
+    padding-top: 2rem;
+}
+
+.heading3{
+    padding-left: 3rem;
+}
+
+.Trips .heading1 h2{
+    padding-left: 35rem;
+}
+
+.Trips .heading1 p{
+    padding-left: 28rem;
+}
+
+.Cards{
+    display: flex;
+    padding: 2rem;
+    padding-left: 3.5rem;
+    gap: 3rem;
+}
+
+.card{
+    width: 22rem;
+    height: 27rem;
+}
+
+.card img{
+    height: 12rem;
+}

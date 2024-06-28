@@ -1,0 +1,33 @@
+.imgg img{
+    height: 35rem;
+    width: 100%;
+}
+
+.txt{
+    position: absolute;
+    top: 50%;
+    left: 43%;
+    justify-content: center;
+    /* color: wheat; */
+    font-family: monospace;
+    
+}
+
+.txt h1{
+    font-size: 4rem;
+}
+
+.details{
+    padding: 3rem;
+    padding-left: 5rem;
+    padding-right: 5rem;
+}
+
+.details .heading5 h3{
+    font-size: 2.5rem;
+    text-decoration: 2px underline;
+}
+.details .paras{
+    padding-bottom: 3rem;
+    padding-top: 1rem;
+}
